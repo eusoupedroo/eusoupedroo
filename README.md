@@ -4,11 +4,11 @@
 
 I have been working in the development area for over 5 years.
 
-I start my career with software developing creating solutions in tecnologies with digital market and management of all social medias of some business in my city. 
+I start my career with software developing creating solutions in technologies with digital market and management of all social medias of some business in my city. 
 
 Until that, i decided specialize in mobile applications for Android. I work in modern projects with Android Studio and non-relational database Firebase, today i studying the Kotlin language for mobile aplications too.
 
-After that, i start to create web solutions using tecnologies like HTML, CSS, JS and anothers libraries of JS like ThreeJS, that are one library for render models 3d on website, this guarantees an immersive and attractive effect to the user within the site.
+After that, i start to create web solutions using technologies like HTML, CSS, JS and anothers libraries of JS like ThreeJS, that are one library for render models 3d on website, this guarantees an immersive and attractive effect to the user within the site.
 
 In the Back End part, I specialized for 3 years in PHP, joining what I knew about HTML, CSS, Javascript and PHP, I built reports and graphs by extracting data from a relational database (MySQL). I was also able to automate sending e-mails with reports through the so-called 'triggers' within the database.
 
