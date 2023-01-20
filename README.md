@@ -22,6 +22,7 @@ You can verify on my Github account projects like:
 * Clone PokéDex
 * Netflix Page
 * Automation Web Python 
+* Web Scraping In Real Time With Python
 * Landing Page With ThreeJS
 
 ## I Work With:
