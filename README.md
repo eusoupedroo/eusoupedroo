@@ -2,7 +2,7 @@
 
 ## About Me: 
 
-I have been working in the development area for over 5 years.
+I have been working in the development area for 5 years.
 
 I start my career with software developing creating solutions in technologies with digital market and management of all social medias of some business in my city. 
 
@@ -12,18 +12,17 @@ After that, i start to create web solutions using technologies like HTML, CSS, J
 
 In the Back End part, I specialized for 3 years in PHP, joining what I knew about HTML, CSS, Javascript and PHP, I built reports and graphs by extracting data from a relational database (MySQL). I was also able to automate sending e-mails with reports through the so-called 'triggers' within the database.
 
-In addition to these languages, which are most used for front-end and back-end development, I took the initiative to learn within the Python language, a language that seeks to deal with automation of everyday processes, analysis and interpretation of data and machine learning with data science.
+Actually i work with automation of proccess web, web development and data analysis. You can see the projects that i build in this account, will be one honor to me if you can give me some constructive criticism about you see.
 
+## My Repos:
 
-## My Projects:
+This is all the projects that i build until now in my account: 
 
-You can verify on my Github account projects like: 
-
-* Clone PokéDex
-* Netflix Page
-* Automation Web Python 
-* Web Scraping In Real Time With Python
-* Landing Page With ThreeJS
+* <a href="https://github.com/eusoupedroo/pokedex" target="blank">Clone PokéDex</a> 
+* Landing Page Using ThreeJS 
+* Streaming Page With Movie API 
+* <a href="https://github.com/eusoupedroo/automacao_youtube_music" target="blank">Automation Youtume Music</a> 
+* <a href="https://github.com/eusoupedroo/cotacao_moedas_tempo_real" target="blank"> Web Scraping In Real Time With Python </a>
 
 ## I Work With:
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,4 +38,4 @@ You can verify on my Github account projects like:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leitepedia/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-sousa-98423b170/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@leitepedia)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jpedroleitedesousa@gmail.com)
+[![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/leitepediaa)
