@@ -39,9 +39,10 @@ This is all the projects that i build until now in my account:
 * Streaming Page With Movie API 
 * <a href="https://github.com/eusoupedroo/automacao_youtube_music" target="blank">Automation Youtume Music</a> 
 * <a href="https://github.com/eusoupedroo/cotacao_moedas_tempo_real" target="blank"> Web Scraping In Real Time With Python </a>
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{eusoupedroo}/count.svg" /></p> 
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{eusoupedroo}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef30f2&height=120&section=footer"/>
