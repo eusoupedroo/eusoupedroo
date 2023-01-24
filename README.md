@@ -44,4 +44,4 @@ This is all the projects that i build until now in my account:
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{eusoupedroo}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef30f2&height=120&section=footer"/>
