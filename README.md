@@ -35,8 +35,6 @@ Actually i work with automation of proccess web, web development and data analys
 This is all the projects that i build until now in my account: 
 
 * <a href="https://github.com/eusoupedroo/pokedex" target="blank">Clone PokéDex</a> 
-* Landing Page Using ThreeJS 
-* Streaming Page With Movie API 
 * <a href="https://github.com/eusoupedroo/automacao_youtube_music" target="blank">Automation Youtume Music</a> 
 * <a href="https://github.com/eusoupedroo/cotacao_moedas_tempo_real" target="blank"> Web Scraping In Real Time With Python </a>
 * <a href="https://github.com/eusoupedroo/didomusic" target="blank"> WebSite Radio Music With  90's and 2000's Musics </a>
