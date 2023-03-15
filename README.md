@@ -41,7 +41,7 @@ This is all the projects that i build until now in my account:
 * <a href="https://github.com/eusoupedroo/automacao_youtube_music" target="blank">Automation Youtume Music</a> 
 * <a href="https://github.com/eusoupedroo/cotacao_moedas_tempo_real" target="blank"> Web Scraping In Real Time With Python </a>
 * <a href="https://github.com/eusoupedroo/didomusics" target="blank"> WebSite Radio Music With  90's and 2000's Musics </a>
-* <a href="https://github.com/eusoupedroo/explorer" target="blank"> Search Engineer To Eletronic Products (In Development)</a>
+* <a href="https://github.com/eusoupedroo/explorer" target="blank"> Search Engineer To Eletronic Products </a>
 * <a href="https://github.com/eusoupedroo/atlas" target="blank"> WebSite Podcast Streaming In Django (In Development)</a>
 
 ### Do You Have Some Idea ? Tell To me: 
