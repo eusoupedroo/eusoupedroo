@@ -8,17 +8,11 @@
 
 ### Apresentation:
 
-I have been working in the development area for 5 years.
+I specialize in developing and maintaining agribusiness ERP systems. I led the successful porting of a PHP/Adianti project, optimizing the storage of processes and documents. My experience includes enhancing existing systems with JQuery, Progress, TPL, PHP, and MySQL.
 
-I start my career with software developing creating solutions in technologies with digital market and management of all social medias of some business in my city. 
+I highlight my ability to manage databases and web/mobile projects. I developed a mobile application for flight itineraries, integrating web functionalities. In the field of personal projects, I am currently developing the "4UFIT" website, a site that uses artificial intelligence to categorize goals, offering deals on supplements. I used HTML, CSS, PHP, JavaScript, jQuery, MySQL, and integrated it with the OpenAI API.
 
-Until that, i decided specialize in mobile applications for Android. I work in modern projects with Android Studio and non-relational database Firebase, today i studying the Kotlin language for mobile aplications too.
-
-After that, i start to create web solutions using technologies like HTML, CSS, JS and anothers libraries of JS like ThreeJS, that are one library for render models 3d on website, this guarantees an immersive and attractive effect to the user within the site.
-
-In the Back End part, I specialized for 3 years in PHP, joining what I knew about HTML, CSS, Javascript and PHP, I built reports and graphs by extracting data from a relational database (MySQL). I was also able to automate sending e-mails with reports through the so-called 'triggers' within the database.
-
-Actually i work with automation of proccess web, web development and data analysis. You can see the projects that i build in this account, will be one honor to me if you can give me some constructive criticism about you see.
+On the "Compare" platform, users can create shopping lists, generating rankings of nearby markets by price. The site incorporates PHP, MySQL, JavaScript, jQuery, and Python to update prices in the markets' databases. I am excited to apply my experience to innovative projects, contributing to their success. Currently, I am responsible for the entire web part of an ERP focused on industries.
 
 ### I Work With:
 
