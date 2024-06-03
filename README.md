@@ -31,7 +31,7 @@ On the "Compare" platform, users can create shopping lists, generating rankings 
 
 This is all the projects that i build until now in my account: 
 
-* <a href="https://github.com/eusoupedroo/pokedex" target="blank">Clone PokéDex</a> 
+* <a href="https://github.com/eusoupedroo/assistai" target="blank">Assistai</a> 
 * <a href="https://github.com/eusoupedroo/automacao_youtube_music" target="blank">Automation Youtume Music</a> 
 * <a href="https://github.com/eusoupedroo/cotacao_moedas_tempo_real" target="blank"> Web Scraping In Real Time With Python </a>
 * <a href="https://github.com/eusoupedroo/didomusics" target="blank"> WebSite Radio Music With  90's and 2000's Musics </a>
