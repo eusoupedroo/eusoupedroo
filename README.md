@@ -49,5 +49,5 @@ This is all the projects that i build until now in my account:
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef30f2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04eb2c&height=120&section=footer"/>
 
